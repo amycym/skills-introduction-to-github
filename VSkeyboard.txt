@@ -1,0 +1,28 @@
+Ctrl + Shift + P - Command Palette
+Ctrl + P - Quick Open
+Ctrl + N - New File
+Ctrl + O - Open File
+Ctrl + Shift + E - Show Explorer / Toggle focus
+Ctrl + B - Toggle Sidebar
+Ctrl + K,P - Copy path of active file
+Ctrl + Tab - Open next
+Ctrl + Shift + Tab - Open previous
+
+Alt + up/down - Move line up/down
+Shift + Alt + up/down - Copy line up/down
+Ctrl + Shift + K - Delete line
+Ctrl + Enter - Insert line below
+Ctrl + Shift + Enter - Insert line above
+Ctrl + Shift + \ - Jump to matching bracket
+Ctrl + ] / [ - Indent/Outdent line
+Ctrl + Home/End - Go to beginning/end of file
+Ctrl + up/down - Scroll line up/down 
+Ctrl + Shift + [ / ] - Toggle (fold/unfold) region
+Alt + Z - Toggle word wrap
+Ctrl + / - Toggle line comment
+Shift + Alt + A - Toggle block comment
+
+Alt + Click - Insert cursor
+Ctrl + Alt + up/down - Insert cursor above/below
+Ctrl + Shift + L - Select all occurrences of current selection
+Shift + Alt + right arrow/left arrow - Expand/Shrink selection
